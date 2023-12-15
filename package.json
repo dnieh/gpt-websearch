@@ -1,0 +1,17 @@
+{
+  "name": "gpt-websearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dnieh/gpt-websearch.git",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "hnswlib-node": "^2.0.0",
+    "html-to-text": "^9.0.5",
+    "langchain": "^0.0.208",
+    "openai": "^4.22.0",
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.40.1",
+    "serpapi": "^2.0.0"
+  }
+}
